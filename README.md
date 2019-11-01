@@ -9,7 +9,7 @@
 |Storage  |32GB                             |
 |Screen   |3.5" 800x480 Resistive Touch     |
 |Slot     |MicroSD                          |
-|Keyboard |3 Rows QWERY                     |
+|Keyboard |3 Rows QWERTY                    |
 |USB      |OTG                              |
 |Bluetooth|v2.0 + EDR                       |
 |WLAN     |Wi-Fi 802.11 b/g                 |
