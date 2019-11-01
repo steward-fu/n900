@@ -10,7 +10,7 @@
 |Screen   |3.5" 800x480 Resistive Touch     |
 |Slot     |MicroSD                          |
 |Keyboard |3 Rows QWERTY                    |
-|USB      |OTG                              |
+|USB      |Host and Client                  |
 |Bluetooth|v2.0 + EDR                       |
 |WLAN     |Wi-Fi 802.11 b/g                 |
 |Battery  |3.7V 1320mA                      |
